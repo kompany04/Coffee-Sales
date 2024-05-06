@@ -14,7 +14,7 @@ Files
 
 Coffee_Sales_Dashboard_raw.xlsx: Raw Excel file.
 
-Coffee_Sales_Dashboard.xlsx: Excel file containing the dashboard.
+Coffee_Sales_raw.xlsx: Excel file containing the dashboard.
 
 README.md: This file providing information about the project.
 
