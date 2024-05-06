@@ -1,3 +1,4 @@
+
 Coffee Sales Dashboard
 
 This repository contains an Excel dashboard for tracking coffee sales. The dashboard utilizes various Excel functions such as XLOOKUP, INDEX, and MATCH to efficiently manage and analyze sales data.
